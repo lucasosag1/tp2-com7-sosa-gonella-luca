@@ -20,11 +20,11 @@ que cambia según la ruta seleccionada.
 ## Instalación
 1. Cloná el repositorio:
    \`\`\`
-   git clone [tu-link-de-github-aca]
+   git clone https://github.com/lucasosag1/tp2-com7-sosa-gonella-luca.git
    \`\`\`
 2. Entrá a la carpeta del proyecto:
    \`\`\`
-   cd [nombre-de-la-carpeta]
+   ccd tp2-com7-sosa-gonella-luca]
    \`\`\`
 3. Instalá las dependencias:
    \`\`\`
@@ -38,4 +38,4 @@ npm run dev
 Luego abrir en el navegador la URL que indica la terminal (por defecto `http://localhost:5173`).
 
 ## Repositorio
-[link a tu repositorio de GitHub]
+https://github.com/lucasosag1/tp2-com7-sosa-gonella-luca
